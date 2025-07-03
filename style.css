@@ -1,0 +1,47 @@
+
+
+
+
+
+body{
+color:burlywood ;
+background-color: black ;
+margin: 0px ;
+margin-bottom: 100px ;
+}
+
+header{
+    border-bottom: solid 2px #c6a974;
+    margin: 20px;
+    font-size: 32px;
+    color: black;
+}
+
+section{
+padding-bottom: 80px;
+padding-top: 80px;
+background: gray;
+display: flex;
+justify-content: center;
+}
+
+
+
+
+
+h1{
+color: #c6a974 ;
+font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.chamadatexto{
+    margin-right: 1%;
+    text-align: center;
+    padding: 20px;
+    background-color: #0c0c0c;
+    color: #c6a974;
+}
